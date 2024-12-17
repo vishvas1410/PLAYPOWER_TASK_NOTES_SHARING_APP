@@ -83,9 +83,6 @@ A feature-rich **Shareable Notes Application** designed for efficient note-takin
 - Use the toolbar for text formatting and note-taking features.
 - Explore advanced AI functionalities for glossary highlights, grammar checks, and insights.
 
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
@@ -94,4 +91,5 @@ This project is licensed under the [MIT License](LICENSE).
 For any queries or feedback, feel free to reach out to 
 
 Email : vishvaspatel1410@gmail.com
+
 Contact No:+91 8401580064
