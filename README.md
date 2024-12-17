@@ -2,6 +2,9 @@
 
 A feature-rich **Shareable Notes Application** designed for efficient note-taking and management, equipped with advanced AI-powered features and a clean, responsive user interface.
 
+
+## Live Demo
+Visit the live website: [Shareable Notes Application](https://playpower-task-notes-sharing-app.vercel.app/)
 ## Features
 
 ### Core Functionalities
